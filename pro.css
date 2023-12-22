@@ -1,0 +1,36 @@
+div{
+    color: gray;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+ul{
+    margin-top: 0px;
+    list-style: none;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+}
+.links{
+    display: inline;
+    padding-top: 0px;
+    padding-left: 33px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: 900;
+}
+#bod{
+    text-align: center;
+    background-color: #252628;
+    color: white,
+     } 
+
+#app { background-color: aliceblue; } 
+
+#myCarrossel { background-color: red; margin-bottom: 35px; } 
+
+#myCarousel img { height: 300px; margin-top: 35px; } 
+
+.carousel-inner p { margin-top: 15px; color : white; font-size: 20px; }
